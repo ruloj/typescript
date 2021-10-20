@@ -1,0 +1,6 @@
+Archivo de configuracion TS en JSON
+    tsc --init
+Compilar automaticamente el archivo
+    tsc --watch FILE.ts
+
+Instalar 

@@ -1,0 +1,3 @@
+npm install typescript ts-node nodemon --save-dev
+npm install express
+npm install @types/node @types/express --save-dev
